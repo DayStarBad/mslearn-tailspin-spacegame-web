@@ -3,7 +3,7 @@ trigger:
 
 pool:
   name: 'Test Pool'
-  vmImage: 'ubuntu-20.04'
+  vmImage: 'windows 10'
   demands:
   - npm
 
